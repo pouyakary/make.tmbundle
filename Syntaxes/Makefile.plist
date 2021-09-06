@@ -745,6 +745,12 @@
 						</dict>
 						<dict>
 							<key>match</key>
+							<string>,</string>
+							<key>name</key>
+							<string>punctuation.separator.comma.makefile</string>
+						</dict>
+						<dict>
+							<key>match</key>
 							<string>%|\*</string>
 							<key>name</key>
 							<string>constant.other.placeholder.makefile</string>
